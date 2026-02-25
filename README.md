@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joynal Abedin</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh.Student, pursuing in computer science from (NDUB). Final year 1st semester|| Django developer|| Backend Developer</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh.Student, pursuing in computer science from (NDUB). Final year last semester|| MERN developer|| Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joynal16&label=Profile%20views&color=0e75b6&style=flat" alt="joynal16" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **MERN STACK**
 
-- 🌱 I’m currently learning **Django,RESTAPi**
+- 🌱 I’m currently learning **Node.js RESTAPi**
 
 - 👨‍💻 All of my projects are available at [https://joynal16.github.io/my-portfolio/](https://joynal16.github.io/my-portfolio/)
 
-- 💬 Ask me about **React,Django,Python,MySql,DRF,JavaScript**
+- 💬 Ask me about **React,Nodejs,MySql,MongoDB,JavaScript**
 
 - 📫 How to reach me **joynal8662@gmail.com**
 
