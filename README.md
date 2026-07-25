@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joynal Abedin</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.Student, pursuing in computer science from (NDUB). Graduated || MERN developer|| Frontend Developer</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh. || MERN developer|| Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joynal16&label=Profile%20views&color=0e75b6&style=flat" alt="joynal16" /> </p>
 
