@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Node.js RESTAPi**
 
-- 👨‍💻 All of my projects are available at [https://joynal16.github.io/my-portfolio/](https://joynal16.github.io/New-Portfolio/)
+- 👨‍💻 All of my projects are available at([https://joynal16.github.io/New-Portfolio/](https://new-portfolio-joynal.netlify.app/)
 
 - 💬 Ask me about **React,Nodejs,MySql,MongoDB,JavaScript**
 
