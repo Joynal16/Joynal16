@@ -84,7 +84,7 @@ const joynal = {
 | Project | Description | Tech | Links |
 |---|---|---|---|
 | **PROJECT_ONE** | Frontend app with authentication and a REST API | HTMl, CSS, TailwindCSS, JavaScript, | [Live](https://job-application-tracer.netlify.app/) · [Code](https://github.com/Joynal16/Job-Application-Tracer.git) |
-| **PROJECT_TWO** | Responsive landing page with a clean, modern UI | HTMl, CSS, TailwindCSS, JavaScript, | [Live](https://) · [Code](https://github.com/YOUR_GITHUB_USERNAME/REPO)
+| **PROJECT_TWO** | Responsive landing page with a clean, modern UI | HTMl, CSS, TailwindCSS, JavaScript, | [Live](https://mini-bank-app-payoo.netlify.app/) · [Code](https://github.com/Joynal16/Payoo-App.git)
 
 ---
 
