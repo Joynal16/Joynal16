@@ -83,9 +83,8 @@ const joynal = {
 
 | Project | Description | Tech | Links |
 |---|---|---|---|
-| **PROJECT_ONE** | Full-stack app with authentication and a REST API | Next.js, Node.js, MongoDB | [Live](https://) · [Code](https://github.com/YOUR_GITHUB_USERNAME/REPO) |
-| **PROJECT_TWO** | Responsive landing page with a clean, modern UI | React, Tailwind CSS | [Live](https://) · [Code](https://github.com/YOUR_GITHUB_USERNAME/REPO) |
-| **PROJECT_THREE** | CRUD application backed by a relational database | Express.js, MySQL | [Live](https://) · [Code](https://github.com/YOUR_GITHUB_USERNAME/REPO) |
+| **PROJECT_ONE** | Frontend app with authentication and a REST API | HTMl, CSS, TailwindCSS, JavaScript, | [Live](https://job-application-tracer.netlify.app/) · [Code](https://github.com/Joynal16/Job-Application-Tracer.git) |
+| **PROJECT_TWO** | Responsive landing page with a clean, modern UI | HTMl, CSS, TailwindCSS, JavaScript, | [Live](https://) · [Code](https://github.com/YOUR_GITHUB_USERNAME/REPO)
 
 ---
 
