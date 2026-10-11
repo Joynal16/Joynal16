@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Joynal+Abedin;Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Python;Building+clean%2C+fast+%26+scalable+apps" alt="Typing SVG" />
+<img src="rename.png?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Joynal+Abedin;Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Python;Building+clean%2C+fast+%26+scalable+apps" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6366f1&style=for-the-badge)
+
 
 
 <p>
