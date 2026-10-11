@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="<img width="554" height="554" alt="Student" src="https://github.com/user-attachments/assets/4b03a88d-f1ae-4f2a-9a3e-ec08edc5e278" />
+<img src="<img width="354" height="350" alt="Student" src="https://github.com/user-attachments/assets/4b03a88d-f1ae-4f2a-9a3e-ec08edc5e278" />
 <img src="rename.png?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Joynal+Abedin;Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Python;Building+clean%2C+fast+%26+scalable+apps" alt="Typing SVG" />
 
 <br/>
