@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="354" height="350" alt="Student" src="https://github.com/user-attachments/assets/4b03a88d-f1ae-4f2a-9a3e-ec08edc5e278" />
+<img width="305" height="300" alt="Student" src="https://github.com/user-attachments/assets/4b03a88d-f1ae-4f2a-9a3e-ec08edc5e278" />
 
 
 <br/>
